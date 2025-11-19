@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a full-stack developer passionate about building scalable applications with React and Next.js. Knowledgeable with JavaScript, Express.js, MongoDB, and Prisma ORM. I love turning ideas into clean, functional code.
+I'm a full-stack developer passionate about building scalable applications with React and Next.js. Knowledgeable with JavaScript, Nestjs, MongoDB, Prisma ORM and Tailwind CSS. I love turning ideas into clean, functional code.
 
 * 🌍  I'm based in Greater Chicago Area
 * 🖥️  See my portfolio at [Stan's Portfolio](http://www.kocevstan.netlify.app)
