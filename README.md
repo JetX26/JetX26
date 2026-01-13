@@ -6,10 +6,9 @@ Software Engineer
 
 I'm a full-stack developer passionate about building scalable applications with React and Next.js. Knowledgeable with JavaScript, Nestjs, MongoDB, Prisma ORM and Tailwind CSS. I love turning ideas into clean, functional code.
 
-* 🌍  I'm based in Greater Chicago Area
+* 🌍  I'm based in the Greater Chicago Area
 * 🖥️  See my portfolio at [Stan's Portfolio](http://www.kocevstan.netlify.app)
 * ✉️  You can contact me at [kocevstanoj@gmail.com](mailto:kocevstanoj@gmail.com)
-* 🚀  I'm currently working on [An E-Commerce Website](http://www.macascookiehouse.store)
 * 👥  I'm looking to collaborate on Projects that could help businesses
 
 <p align="left">
